@@ -12,7 +12,7 @@
     "name": "my board",
     "architecture": "avr",
     "version": "0.1.0",
-    "category": "contributed",
+    "category": "Contributed",
     "boards": [
       {"name": "MALUDA"}
     ]
