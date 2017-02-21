@@ -1,12 +1,21 @@
 
 {
 "packages" :[
+  {
 "name":"MALUDA",
 "maintainer": "dml",
 "websiteURL": "",
 "email": "dmatallanac@uqvirtual.edu.co",
 
-"plataforms": [],
+"plataforms": [
+  {
+    "name": "my board",
+    "architecture": "avr",
+    "version": "0.1.0",
+    "category": "contributed"
+  }
+],
 "tools": [],
+}
 ]
 }
