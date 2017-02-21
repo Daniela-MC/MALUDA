@@ -4,7 +4,7 @@
   {
 "name":"MALUDA",
 "maintainer": "dml",
-"websiteURL": "",
+"websiteURL": "https://github.com/DanielaMC04/MALUDA",
 "email": "dmatallanac@uqvirtual.edu.co",
 
 "plataforms": [
@@ -18,7 +18,7 @@
     ]
   }
 ],
-"tools": [],
+"tools": []
 }
 ]
 }
