@@ -2,14 +2,14 @@
 {
 "packages" :[
   {
-"name":"MALUDA",
+"name": "MALUDA",
 "maintainer": "dml",
 "websiteURL": "https://github.com/DanielaMC04/MALUDA",
 "email": "dmatallanac@uqvirtual.edu.co",
 
 "plataforms": [
   {
-    "name": "my board",
+    "name": "MALUDA",
     "architecture": "avr",
     "version": "0.1.0",
     "category": "Contributed",
@@ -18,7 +18,7 @@
     ]
   }
 ],
-"tools": []
+"tools":[]
 }
 ]
 }
