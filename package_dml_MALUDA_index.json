@@ -7,7 +7,7 @@
 "websiteURL": "https://github.com/DanielaMC04/MALUDA",
 "email": "dmatallanac@uqvirtual.edu.co",
 
-"plataforms": [
+"platforms": [
   {
     "name": "MALUDA",
     "architecture": "avr",
