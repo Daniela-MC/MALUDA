@@ -13,10 +13,10 @@
     "architecture": "avr",
     "version": "0.1.0",
     "category": "Contributed",
-    "url": "",
-    "archiveFileName": "",
-    "checksum": "SHA-256:
-    "size": "",
+    "url": "https://github.com/DanielaMC04/MALUDA/archive/v0.1.0.zip",
+    "archiveFileName": "MALUDA-0.1.0.zip",
+    "checksum": "SHA-256:d5558a3656b8299568994a2264f137cdd6749cc6793b02d751575eb4987f2734",
+    "size": "192426",
     "boards": [
       {"name": "MALUDA"}
     ]
