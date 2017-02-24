@@ -13,6 +13,10 @@
     "architecture": "avr",
     "version": "0.1.0",
     "category": "Contributed",
+    "url": "",
+    "archiveFileName": "",
+    "checksum": "SHA-256:
+    "size": "",
     "boards": [
       {"name": "MALUDA"}
     ]
