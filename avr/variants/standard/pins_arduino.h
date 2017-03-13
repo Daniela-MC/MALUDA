@@ -109,7 +109,7 @@ static const uint8_t A7 = PIN_A7;
 //
 // 0-7 PE0-PE7   works
 // 8-13 PB0-PB5  works
-// 14-21 PA0-PA7 works 
+// 14-21 PA0-PA7 works
 // 22-29 PH0-PH7 works
 // 30-35 PG5-PG0 works
 // 36-43 PC7-PC0 works
@@ -150,18 +150,18 @@ const uint16_t PROGMEM port_to_input_PGM[] = {
 const uint8_t PROGMEM digital_pin_to_port_PGM[] = {
 	PD, /* 0 */
 	PD,
-	PD,
-	PD,
-	PD,
-	PD,
-	PD,
-	PD,
-	PB, /* 8 */
 	PB,
 	PB,
 	PB,
 	PB,
+	PD,
 	PB,
+	PD, /* 8 */
+	PD,
+	PD,
+	PD,
+	PD,
+	PD,
 	PC, /* 14 */
 	PC,
 	PC,
@@ -173,18 +173,18 @@ const uint8_t PROGMEM digital_pin_to_port_PGM[] = {
 const uint8_t PROGMEM digital_pin_to_bit_mask_PGM[] = {
 	_BV(0), /* 0, port D */
 	_BV(1),
-	_BV(2),
-	_BV(3),
-	_BV(4),
-	_BV(5),
-	_BV(6),
-	_BV(7),
-	_BV(0), /* 8, port B */
+	_BV(0),
 	_BV(1),
 	_BV(2),
 	_BV(3),
 	_BV(4),
 	_BV(5),
+	_BV(2), /* 8, port B */
+	_BV(3),
+	_BV(4),
+	_BV(5),
+	_BV(6),
+	_BV(7),
 	_BV(0), /* 14, port C */
 	_BV(1),
 	_BV(2),
