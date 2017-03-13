@@ -20,6 +20,19 @@
     "boards": [
       {"name": "MALUDA"}
     ]
+  },
+  {
+    "name": "MALUDA",
+    "architecture": "avr",
+    "version": "0.1.1",
+    "category": "Contributed",
+    "url": "https://github.com/DanielaMC04/MALUDA/archive/v0.1.1.zip",
+    "archiveFileName": "MALUDA-0.1.1.zip",
+    "checksum": "SHA-256:b77469e16d1c9b10dd367a9dbd9775d838f2e3906ca212761e6cd19e675478ef",
+    "size": "192436",
+    "boards": [
+      {"name": "MALUDA"}
+    ]
   }
 ],
 "tools":[]
