@@ -11,7 +11,7 @@ MALUDA.upload.tool=avrdude
 MALUDA.upload.protocol=arduino
 MALUDA.upload.maximum_size=32256
 MALUDA.upload.maximum_data_size=2048
-MALUDA.upload.speed=115200
+MALUDA.upload.speed=110400
 
 MALUDA.bootloader.tool=avrdude
 MALUDA.bootloader.low_fuses=0xFF

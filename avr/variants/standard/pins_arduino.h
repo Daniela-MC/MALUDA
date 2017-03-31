@@ -51,7 +51,7 @@ static const uint8_t SCK  = PIN_SPI_SCK;
 static const uint8_t SDA = PIN_WIRE_SDA;
 static const uint8_t SCL = PIN_WIRE_SCL;
 
-#define LED_BUILTIN 13
+#define LED_BUILTIN 7
 
 #define PIN_A0   (14)
 #define PIN_A1   (15)
@@ -149,7 +149,7 @@ const uint16_t PROGMEM port_to_input_PGM[] = {
 
 const uint8_t PROGMEM digital_pin_to_port_PGM[] = {
 	PD, /* 0 */
-	PD,
+	PD,//iguales
 	PB,
 	PB,
 	PB,
